@@ -11,4 +11,4 @@ Thomas Boosinger - Questions 7 - 10
 
 Reflections - ?
 
-To submit your work to the group, you can edit the main file in GitHub, or if you wish, you can fork the project and open it in Juypter Notebook and then submit a pull request (https://youtu.be/k5D37W6h56o)
+To submit your work to the group, you can edit the main file in GitHub, upload a separate file of just your questions, and I can add them in, or if you wish, you can fork the project and open it in Juypter Notebook and then submit a pull request (https://youtu.be/k5D37W6h56o)
