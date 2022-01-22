@@ -4,10 +4,10 @@ For this project, we can start basic. Then, as we do more projects together, we 
 This project is broken down into 10 questions and a reflection. 
 Let's split this project into two questions per person, and I'll take care of the leftover questions. For the reflection, if anyone would like to tackle it, just let us know in GroupMe or write your name in below.
 
-Salvador Aleguas - Questions 1 and 2
-Denise Do - Questions 3 and 4
-Nicholas Velasco - Questions 5 and 6
-Thomas Boosinger - Questions 7 - 10
+Salvador Aleguas - Questions 1 and 2, one function and markdown cell for queston 10
+Denise Do - Questions 3 and 4, one function and markdown cell for queston 10
+Nicholas Velasco - Questions 5 and 6, one function and markdown cell for queston 10
+Thomas Boosinger - Questions 7 - 9, one function and markdown cell for queston 10
 
 Reflections - ?
 
